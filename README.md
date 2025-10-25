@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Penniedev/InstaLock/blob/main/banner.png" alt="Instalocker Banner" width="800"/>
+  <img src="https://github.com/Penniedev/InstaLock/blob/main/banner.png?raw=true" alt="Instalocker Banner" width="800"/>
 </p>
 
 <h1 align="center">🎯 Instalocker</h1>
@@ -70,10 +70,21 @@ Instalocker connects to the **local Riot lockfile** used by the game client.
 
 ---
 
+## 💡 Credits
+
+| Role | Contributor |
+|------|--------------|
+| 💻 Developer / Maintainer | [**Cookie**](https://cookie.dev) |
+| 🧠 Riot Client Integration (`riot-bridge`) | [**Zepiocs**](https://github.com/Zepiocs) |
+
+Big thanks to **[@Zepiocs](https://github.com/Zepiocs)** for developing the `riot-bridge` module — the foundation that powers Instalocker’s connection to the Valorant client.
+
+---
+
 ## 🧑‍💻 Developed by
 
 **[Cookie](https://cookie.dev)**  
-Built with ❤️ using Electron, React, and Valorant API integrations.
+Built with ❤️ using Electron, React, and the Riot Client API.
 
 ---
 

@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Penniedev/InstaVall/releases">
+  <a href="https://github.com/Penniedev/InstaLock/releases">
     <img src="https://img.shields.io/github/v/release/Penniedev/InstaVall?color=ff4655&label=latest%20release&style=for-the-badge" alt="Latest Release"/>
   </a>
-  <a href="https://github.com/Penniedev/InstaVall/issues">
+  <a href="https://github.com/Penniedev/InstaLock/issues">
     <img src="https://img.shields.io/github/issues/Penniedev/InstaVall?style=for-the-badge&color=202020" alt="Issues"/>
   </a>
   <a href="https://cookie.dev">

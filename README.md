@@ -77,7 +77,16 @@ Instalocker connects to the **local Riot lockfile** used by the game client.
 | 💻 Developer / Maintainer | [**Cookie**](https://cookie.dev) |
 | 🧠 Riot Client Integration (`riot-bridge`) | [**Zepiocs**](https://github.com/Zepiocs) |
 
-Big thanks to **[@Zepiocs](https://github.com/Zepiocs)** for developing the `riot-bridge` module — the foundation that powers Instalocker’s connection to the Valorant client.
+Special thanks to **[@Zepiocs](https://github.com/Zepiocs)** for developing the `riot-bridge` module — the foundation that powers Instalocker’s secure connection to the Valorant client.
+
+---
+
+## 📩 Contact & Legal
+
+If **Riot Games** or any of their representatives have questions or concerns regarding this project,  
+please reach out directly via email at **[josh@sky-recovery.com](mailto:josh@sky-recovery.com)**.  
+
+We will respond promptly to any requests for clarification, modification, or removal.
 
 ---
 

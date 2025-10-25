@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://github.com/Penniedev/InstaLock/releases">
-    <img src="https://img.shields.io/github/v/release/Penniedev/InstaVall?color=ff4655&label=latest%20release&style=for-the-badge" alt="Latest Release"/>
+    <img src="https://img.shields.io/github/v/release/Penniedev/InstaLock?color=ff4655&label=latest%20release&style=for-the-badge" alt="Latest Release"/>
   </a>
   <a href="https://github.com/Penniedev/InstaLock/issues">
-    <img src="https://img.shields.io/github/issues/Penniedev/InstaVall?style=for-the-badge&color=202020" alt="Issues"/>
+    <img src="https://img.shields.io/github/issues/Penniedev/InstaLock?style=for-the-badge&color=202020" alt="Issues"/>
   </a>
   <a href="https://cookie.dev">
     <img src="https://img.shields.io/badge/Developed%20by-Cookie-%23FF4655?style=for-the-badge" alt="Developer Badge"/>
@@ -46,7 +46,7 @@ Get instant notifications when your favorite skins appear.
 ---
 
 ### 📊 Account Overview
-See your **profile details** in one clean interface.  
+See your **rank, level, and profile details** in one clean interface.  
 Data is fetched securely via Riot’s local client API — **no external servers or credentials required.**
 
 ---
@@ -62,7 +62,7 @@ Instalocker connects to the **local Riot lockfile** used by the game client.
 
 ## 🧩 Installation
 
-1. Download the latest version from the [Releases](https://github.com/Penniedev/InstaVall/releases) page.  
+1. Download the latest version from the [Releases](https://github.com/Penniedev/InstaLock/releases) page.  
 2. Run the installer.  
 3. Launch **Instalocker** and let it connect automatically to your Valorant client.
 
@@ -73,7 +73,7 @@ Instalocker connects to the **local Riot lockfile** used by the game client.
 ## 🧑‍💻 Developed by
 
 **[Cookie](https://cookie.dev)**  
-Built with ❤️ using Electron, React
+Built with ❤️ using Electron, React, and Valorant API integrations.
 
 ---
 

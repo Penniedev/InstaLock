@@ -46,7 +46,7 @@ Get instant notifications when your favorite skins appear.
 ---
 
 ### 📊 Account Overview
-See your **rank, level, and profile details** in one clean interface.  
+See your **profile details** in one clean interface.  
 Data is fetched securely via Riot’s local client API — **no external servers or credentials required.**
 
 ---

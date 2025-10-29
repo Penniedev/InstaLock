@@ -1,11 +1,11 @@
-[<p align="center">
+<p align="center">
   <img src="https://github.com/Penniedev/InstaLock/blob/main/banner.png?raw=true" alt="Instalocker Banner" width="800"/>
 </p>
 
-<h1 align="center">🎯 Instalocker</h1>
+<h1 align="center">Instalocker</h1>
 
 <p align="center">
-  <strong>A sleek, Valorant-inspired companion app that connects directly to your game client for real-time insights, agent automation, and shop tracking.</strong>
+  <strong>A modern, Valorant-inspired companion app that connects directly to your Riot client for real-time insights, agent automation, and shop tracking.</strong>
 </p>
 
 <p align="center">
@@ -22,82 +22,88 @@
 
 ---
 
-## 🧠 Overview
+## Overview
 
-Instalocker is your ultimate **Valorant performance companion**, designed to enhance your in-game experience with intelligent automation, data-driven insights, and seamless integration with the Riot Client.
+**Instalocker** is a comprehensive Valorant companion application that enhances gameplay through intelligent automation, data analytics, and direct integration with the official Riot Client.
 
----
+Designed for performance and reliability, Instalocker helps streamline your in-game experience without compromising security or compliance.
 
-## ⚙️ Features
-
-### 🔒 Agent Instalock
-Instantly lock your preferred agent the moment the selection phase opens — never lose your main again.
-
-> ⚠️ **Note:** Use responsibly. Overusing instalock features, especially in competitive play, can harm team composition.
-
-> 🚨 **Warning:** Automated agent locking may trigger Riot’s anti-cheat systems if abused. Use at your own risk.
+<p align="center">
+  <img src="https://github.com/Penniedev/InstaLock-Private/blob/main/electron_i1qJpS8SbF.png?raw=true" alt="Instalocker App Preview" width="800"/>
+</p>
 
 ---
 
-### 🛍️ Shop Monitor
-Track your daily shop rotations and featured bundles.  
-Get instant notifications when your favorite skins appear.
+## Features
+
+### Agent Instalock
+Automatically selects your preferred agent the moment the selection phase begins, ensuring you never lose your main pick again.
+
+**Important:**  
+Use this feature responsibly. Excessive automation during competitive play can negatively impact team dynamics and may be flagged by Riot’s systems if abused.
 
 ---
 
-### 📊 Account Overview
-See your **profile details** in one clean interface.  
-Data is fetched securely via Riot’s local client API — **no external servers or credentials required.**
+### Shop Monitor
+Stay updated with your daily shop rotation and featured bundles.  
+Receive notifications when desired skins become available — all without leaving your client.
 
 ---
 
-## 🔐 Security
-
-Instalocker connects to the **local Riot lockfile** used by the game client.  
-- No passwords or tokens are ever stored.  
-- No third-party API calls.  
-- All data stays on your PC.
+### Account Overview
+Access a clean, unified dashboard displaying your Valorant profile data and match details.  
+Information is retrieved securely through Riot’s local client API, with no external servers or credentials involved.
 
 ---
 
-## 🧩 Installation
+## Security and Privacy
 
-1. Download the latest version from the [Releases](https://github.com/Penniedev/InstaLock/releases) page.  
-2. Run the installer.  
-3. Launch **Instalocker** and let it connect automatically to your Valorant client.
+Instalocker communicates exclusively with the **local Riot lockfile** used by the game client.  
+- No credentials, tokens, or personal data are stored or transmitted.  
+- No third-party APIs or remote endpoints are accessed.  
+- All operations occur locally on your machine.
 
-> 💡 Tip: Keep the app running in the background for auto-locking and shop updates.
+This architecture ensures complete privacy and eliminates the need for external authentication.
 
 ---
 
-## 💡 Credits
+## Installation
+
+1. Download the latest release from the [Releases page](https://github.com/Penniedev/InstaLock/releases).  
+2. Run the installer and follow the on-screen setup instructions.  
+3. Launch Instalocker — it will automatically detect and connect to your Valorant client.
+
+**Tip:** Keep Instalocker running in the background to enable auto-lock and shop update features.
+
+---
+
+## Credits
 
 | Role | Contributor |
 |------|--------------|
-| 💻 Developer / Maintainer | [**Cookie**](https://cookie.dev) |
-| 🧠 Riot Client Integration (`riot-bridge`) | [**Zepiocs**](https://github.com/Zepiocs) |
+| Developer / Maintainer | [Cookie](https://cookie.dev) |
+| Riot Client Integration (`riot-bridge`) | [Zepiocs](https://github.com/Zepiocs) |
 
-Special thanks to **[@Zepiocs](https://github.com/Zepiocs)** for developing the `riot-bridge` module — the foundation that powers Instalocker’s secure connection to the Valorant client.
-
----
-
-## 📩 Contact & Legal
-
-If **Riot Games** or any of their representatives have questions or concerns regarding this project,  
-please reach out directly via email at **[josh@sky-recovery.com](mailto:josh@sky-recovery.com)**.  
-
-We will respond promptly to any requests for clarification, modification, or removal.
+Special thanks to [Zepiocs](https://github.com/Zepiocs) for creating the `riot-bridge` module, the foundation that enables secure and efficient client integration.
 
 ---
 
-## 🧑‍💻 Developed by
+## Contact and Legal
+
+For any inquiries from **Riot Games** or their representatives, please contact:  
+**[josh@sky-recovery.com](mailto:josh@sky-recovery.com)**  
+
+We will promptly respond to requests regarding project clarification, modification, or removal.
+
+---
+
+## Developed By
 
 **[Cookie](https://cookie.dev)**  
-Built with ❤️ using Electron, React, and the Riot Client API.
+Built using **Electron**, **React**, and the **Riot Client API**.
 
 ---
 
 <p align="center">
-  <sub>© 2025 Cookie — All Rights Reserved. Valorant and Riot Games are trademarks of Riot Games, Inc. This project is not affiliated with or endorsed by Riot Games.</sub>
+  <sub>© 2025 Cookie. All Rights Reserved. Valorant and Riot Games are trademarks of Riot Games, Inc. This project is not affiliated with or endorsed by Riot Games.</sub>
 </p>
-](https://github.com/Penniedev/InstaLock-Private/blob/main/README.md)

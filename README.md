@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
   <img src="https://github.com/Penniedev/InstaLock/blob/main/banner.png?raw=true" alt="Instalocker Banner" width="800"/>
 </p>
 
@@ -100,3 +100,4 @@ Built with ❤️ using Electron, React, and the Riot Client API.
 <p align="center">
   <sub>© 2025 Cookie — All Rights Reserved. Valorant and Riot Games are trademarks of Riot Games, Inc. This project is not affiliated with or endorsed by Riot Games.</sub>
 </p>
+](https://github.com/Penniedev/InstaLock-Private/blob/main/README.md)
